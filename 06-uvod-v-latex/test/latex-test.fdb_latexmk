@@ -1,5 +1,20 @@
 # Fdb version 4
-["pdflatex"] 1731343535.6267 "c:/Users/Kanis/FMF/RP/racunalniski-praktikum/06-uvod-v-latex/test/latex-test.tex" "latex-test.pdf" "latex-test" 1731343536.05273 2
+["pdflatex"] 1731346630.76405 "c:/Users/Kanis/FMF/RP/racunalniski-praktikum/06-uvod-v-latex/test/latex-test.tex" "latex-test.pdf" "latex-test" 1731346631.48331 0
+  "C:/Users/Kanis/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731343366 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/Kanis/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1731346139 11987005 6187eb78655101dc9ed2b18462275c84 ""
+  "C:/Users/Kanis/AppData/Local/Programs/MiKTeX 1/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "C:/Users/Kanis/AppData/Local/Programs/MiKTeX 1/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Users/Kanis/AppData/Local/Programs/MiKTeX 1/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
+  "C:/Users/Kanis/AppData/Local/Programs/MiKTeX 1/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1247596667 30251 6afa5cb1d0204815a708a080681d4674 ""
+  "C:/Users/Kanis/AppData/Local/Programs/MiKTeX 1/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "C:/Users/Kanis/AppData/Local/Programs/MiKTeX 1/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/Kanis/AppData/Local/Programs/MiKTeX 1/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
+  "C:/Users/Kanis/AppData/Local/Programs/MiKTeX 1/tex/latex/base/article.cls" 1730400195 20144 d7d3a15c7efd9458741458961c8a96e7 ""
+  "C:/Users/Kanis/AppData/Local/Programs/MiKTeX 1/tex/latex/base/size10.clo" 1730400195 8448 bd43e47d84d3704b7eabd59a92e43bf1 ""
+  "C:/Users/Kanis/AppData/Local/Programs/MiKTeX 1/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
+  "c:/Users/Kanis/FMF/RP/racunalniski-praktikum/06-uvod-v-latex/test/latex-test.tex" 1731346629 215 0eb34e604b31f9966d0ffcaf4b527657 ""
+  "latex-test.aux" 1731346631 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "latex-test.tex" 1731346629 215 0eb34e604b31f9966d0ffcaf4b527657 ""
   (generated)
   "latex-test.aux"
   "latex-test.log"
