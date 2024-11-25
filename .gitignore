@@ -8,3 +8,7 @@
 *.out
 *.pyc
 *.synctex.gz
+*.nav
+*.out
+*.snm
+*.toc
