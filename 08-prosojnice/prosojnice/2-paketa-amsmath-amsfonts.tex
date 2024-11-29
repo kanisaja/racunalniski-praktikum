@@ -5,12 +5,12 @@
 	Izračunajte determinanto
 
 
-$\begin{vmatrix}
+$$\begin{vmatrix}
 		 -1 & 4 & 4 & -2 \\
 		 1 & 4 & 5 & -1 \\
 		 1 & 4 & -2 & 2 \\
 		 3 & 8 & 4 & 3
-\end{vmatrix}$
+\end{vmatrix}$$
 
 	V pomoč naj vam bo Overleaf dokumentacija o matrikah:
 	
@@ -55,10 +55,12 @@ $\begin{vmatrix}
 	% Oblikujte spodnje enačbe z ustreznim okoljem,
 	% da bo enačba oblikovana kot v rešitvah.
 	Poišči vse rešitve enačbe
-	\[
-	(1+x+x^2) \cdot (1+x+x^2+x^3+\ldots+x^9+x^{10}) = 
-	=(1+x+x^2+x^3+x^4+x^5+x^6)^2.
-	\]
+	\begin{multline*}
+		(1+x+x^2) \cdot (1+x+x^2+x^3+\ldots+x^9+x^{10}) = \\
+		=(1+x+x^2+x^3+x^4+x^5+x^6)^2.
+	\end{multline*}
+	
+	
 \end{frame}
 
 \begin{frame}{Okolje \texttt{cases}}
@@ -66,8 +68,14 @@ $\begin{vmatrix}
 	% Oblikujte spodnji funkcijski predpis z ustreznim okoljem,
 	% da oblikovan kot v rešitvah.
 	Dana je funkcija
-	
-		% \frac{3x^2y-y^3}{x^2+y^2}
+	\begin{align*}
+		f(x,y) = 
+		\begin{cases}
+			\frac{3x^2y-y^3}{x^2+y^2}; &(x,y) \neq (0.0), \\
+			a; &(x,y) = (0,0).
+		\end{cases}
+	\end{align*}
+		
 		
 	\begin{itemize}
 		% ukaz displaystyle preklopi v prikazni način v vrstici. 
