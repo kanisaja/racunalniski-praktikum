@@ -55,17 +55,25 @@
 \headcommand {\sectionentry {5}{Paket \texttt {beamer} in tabele}{48}{Paket \texttt {beamer} in tabele}{0}}
 \headcommand {\slideentry {5}{0}{1}{48/48}{}{0}}
 \headcommand {\beamer@framepages {48}{48}}
-\headcommand {\slideentry {5}{0}{2}{49/49}{}{0}}
-\headcommand {\beamer@framepages {49}{49}}
-\headcommand {\slideentry {5}{0}{3}{50/51}{}{0}}
-\headcommand {\beamer@framepages {50}{51}}
-\headcommand {\beamer@sectionpages {48}{51}}
-\headcommand {\beamer@subsectionpages {48}{51}}
-\headcommand {\sectionentry {6}{Matematika, 2. del\\\large {Zaporedja, algebra, grupe}}{52}{Matematika, 2. del}{0}}
-\headcommand {\slideentry {6}{0}{1}{52/52}{}{0}}
-\headcommand {\beamer@framepages {52}{52}}
-\headcommand {\beamer@partpages {1}{52}}
-\headcommand {\beamer@subsectionpages {52}{52}}
-\headcommand {\beamer@sectionpages {52}{52}}
-\headcommand {\beamer@documentpages {52}}
-\headcommand {\gdef \inserttotalframenumber {18}}
+\headcommand {\slideentry {5}{0}{2}{49/52}{}{0}}
+\headcommand {\beamer@framepages {49}{52}}
+\headcommand {\slideentry {5}{0}{3}{53/57}{}{0}}
+\headcommand {\beamer@framepages {53}{57}}
+\headcommand {\beamer@sectionpages {48}{57}}
+\headcommand {\beamer@subsectionpages {48}{57}}
+\headcommand {\sectionentry {6}{Matematika, 2. del\\\large {Zaporedja, algebra, grupe}}{58}{Matematika, 2. del}{0}}
+\headcommand {\slideentry {6}{0}{1}{58/58}{}{0}}
+\headcommand {\beamer@framepages {58}{58}}
+\headcommand {\slideentry {6}{0}{2}{59/59}{}{0}}
+\headcommand {\beamer@framepages {59}{59}}
+\headcommand {\slideentry {6}{0}{3}{60/60}{}{0}}
+\headcommand {\beamer@framepages {60}{60}}
+\headcommand {\slideentry {6}{0}{4}{61/61}{}{0}}
+\headcommand {\beamer@framepages {61}{61}}
+\headcommand {\slideentry {6}{0}{5}{62/62}{}{0}}
+\headcommand {\beamer@framepages {62}{62}}
+\headcommand {\beamer@partpages {1}{62}}
+\headcommand {\beamer@subsectionpages {58}{62}}
+\headcommand {\beamer@sectionpages {58}{62}}
+\headcommand {\beamer@documentpages {62}}
+\headcommand {\gdef \inserttotalframenumber {22}}
