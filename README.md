@@ -4,6 +4,10 @@
      V tem besedilu so v komentarjih napisana navodila za reševanje. -->
 
 <!-- 2. nivojski razdelek -->
+
+## Povezava do spletne strani
+[Moja spletna stran](kanisaja.github.io)
+
 ## Bližnjice na tipkovnici
 
 - _Kopiraj_ označeno v odložišče: ctrl+C (**C**opy)
